@@ -17,3 +17,13 @@ Analytics queries performed:
 7. Customer ranking by spending
 
 The project demonstrates joins, aggregations, and PostgreSQL window functions.
+## Skills Used
+
+- SQL Joins
+- Aggregation (SUM)
+- GROUP BY
+- ORDER BY
+- Window Functions (OVER)
+- Ranking Functions (RANK)
+- Data Analysis with PostgreSQL
+
